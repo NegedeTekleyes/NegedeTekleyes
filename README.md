@@ -37,8 +37,11 @@
 - A project for managing hotel rooftop services, integrating frontend and backend technologies.
 [Hotels-blog-app](https://github.com/NegedeTekleyes/RoofTop-hotels-mernstack-app)
 #### **4. Amazon Clone**  
-- A full-stack e-commerce platform inspired by Amazon.  
+- A full-stack e-commerce platform inspired by Negede.  
   - [Frontend Deployment](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+#### **5. Personal portifolio***
+-A portifolio website inspired by NegedeTekleyes
+-[portifolio Deployment](https://github.com/NegedeTekleyes/ethio-software)
 
 ---
 

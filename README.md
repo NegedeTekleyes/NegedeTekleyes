@@ -14,7 +14,6 @@
 
 ### 👨‍💻 About Me
 - 🔭 **Currently working on:**  
-  - A **hotels rooftop app** for managing hotel rooftop services.  
   - A **Telegram bot** called **'computer_science_stud_bot'** to assist students with computer science topics.  
 
 - 🌱 **Currently learning:**  

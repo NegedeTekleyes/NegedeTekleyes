@@ -25,8 +25,8 @@
 ---
 
 ### 🚀 Projects
-#### **1. Data Structures and Algorithms Practice (AlgoExpert)**  
-- Solving problems in competitive programming and preparing for coding interviews.
+#### **1. Online Lerning platform(Agelgle)**  
+- Solving the problems of beginner lerners due to lack of unogranized resource and lacks of roadmap to learn consistently.
 
 #### **2. Full Stack Web Applications**  
 - Built responsive and scalable web apps using:  

@@ -37,7 +37,6 @@
 [Hotels-blog-app](https://github.com/NegedeTekleyes/RoofTop-hotels-mernstack-app)
 #### **4. Amazon Clone**  
 - A full-stack e-commerce platform inspired by Negede.  
-  - [Frontend Deployment](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [You can show my website](https://amazone-website-negede.netlify.app/)
 #### **5. Personal portifolio***
 -A portifolio website inspired by NegedeTekleyes

@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Negede Tekleyes! 👋</h1>
 
-<p align="center">
-  <img src="https://github.com/NegedeTekleyes/portifolio-img/blob/main/git%20profile.jpg" alt="Negede Tekleyes" width="150" style="border-radius: 50%;">
-</p>
+
 
 <h3 align="center">
 <a href="https://github.com/NegedeTekleyes">Programmer</a> | 

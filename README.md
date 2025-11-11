@@ -38,8 +38,8 @@
   - [You can show my website](https://amazone-website-negede.netlify.app/)
 #### **5. Personal portifolio***
 -A portifolio website inspired by NegedeTekleyes
--[portifolio Deployment](https://github.com/NegedeTekleyes/ethio-software)
-- [please visit ethio soft](https://ethiosoft.netlify.app/)
+-[portifolio Deployment](https://github.com/NegedeTekleyes/ethio-software/89)
+- [please visit ethio soft](https://ethiosoft.netlify.app/89)
 
 ---
 

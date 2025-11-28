@@ -23,17 +23,18 @@ Full Stack Developer | Software Engineer | React & Next.js Expert | Mobile Devel
 
 ## 🔥 About Me
 
-I’m a passionate **Full Stack Developer** and a 4th-year **Computer Science student** at Debre Berhan University, dedicated to solving real-world problems through modern and scalable software.
+I’m a passionate **Full Stack Developer** and a 4th-year **Computer Science student** at Debre Berhan University.  
+I build **modern, scalable, and responsive software solutions** while continuously learning new technologies.
 
 I specialize in:
 
-- ⚡ Full-stack development (Next.js + NestJS + Prisma)
-- ⚡ Modern frontend (React, TailwindCSS)
-- ⚡ Mobile applications (React Native)
-- ⚡ Automation, scripting & bots (Python)
+- ⚡ Full-stack development: **Next.js + NestJS + Prisma**
+- ⚡ Frontend: **React, TailwindCSS, responsive UI design**
+- ⚡ Mobile applications: **React Native**
+- ⚡ Automation, scripting & bots: **Python**
 - ⚡ Cloud & backend systems
 
-I'm always building, learning, and pushing my skills to the next level.
+I am always pushing my skills to the next level and love solving real-world problems through software.
 
 ---
 
@@ -41,7 +42,7 @@ I'm always building, learning, and pushing my skills to the next level.
 
 ### ⭐ 1. **Agelgle – Online Learning Platform**
 
-A complete full-stack e-learning system for structured learning with roadmaps, curated content, course uploads, and beginner-friendly guidance.
+A full-stack e-learning platform for structured learning with roadmaps, curated content, and beginner-friendly guidance.
 
 **Tech:** Next.js, NestJS, Prisma, PostgreSQL  
 **Goal:** Solve the lack of organized learning resources for beginners.
@@ -50,7 +51,7 @@ A complete full-stack e-learning system for structured learning with roadmaps, c
 
 ### ⭐ 2. **Hotels Rooftop App**
 
-A MERN stack project for managing hotel rooftop services.
+MERN stack application to manage hotel rooftop services efficiently.
 
 🔗 GitHub: [Rooftop Hotels App](https://github.com/NegedeTekleyes/RoofTop-hotels-mernstack-app)
 
@@ -58,25 +59,25 @@ A MERN stack project for managing hotel rooftop services.
 
 ### ⭐ 3. **Amazon Clone**
 
-A functional e-commerce application inspired by Amazon.
+A full-stack e-commerce platform inspired by Amazon.
 
-🔗 Live Demo: https://amazone-website-negede.netlify.app/  
+🔗 Live Demo: [Amazon Clone](https://amazone-website-negede.netlify.app/)  
 **Features:** product display, cart system, checkout simulation.
 
 ---
 
 ### ⭐ 4. **Personal Portfolio (EthioSoft)**
 
-A minimal and beautiful personal portfolio inspired by modern UI design.
+A clean and modern portfolio website to showcase my work.
 
-🔗 Visit Portfolio: https://ethiosoft.netlify.app/  
-🔗 Repo: https://github.com/NegedeTekleyes/ethio-software/89
+🔗 Visit Portfolio: [EthioSoft](https://ethiosoft.netlify.app/)  
+🔗 Repo: [GitHub](https://github.com/NegedeTekleyes/ethio-software/89)
 
 ---
 
 ### ⭐ 5. **Telegram Bot – computer_science_stud_bot**
 
-A Telegram bot that helps Computer Science students with notes, explanations, and learning support.
+A Telegram bot helping Computer Science students with notes, explanations, and learning support.
 
 **Tech:** Python, Telegram Bot API
 
@@ -84,7 +85,7 @@ A Telegram bot that helps Computer Science students with notes, explanations, an
 
 ## 🛠️ Tech Stack & Tools
 
-### 💻 Languages & Core Tooling
+### 💻 Languages & Core Tools
 
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -140,7 +141,7 @@ A Telegram bot that helps Computer Science students with notes, explanations, an
 ## ⚡ Fun Fact
 
 I love teaching and sharing what I learn.  
-When I’m not coding, I’m making YouTube content to help beginners understand programming better.
+When I’m not coding, I’m creating YouTube content to help beginners understand programming better.
 
 ---
 

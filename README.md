@@ -1,12 +1,7 @@
 <h1 align="center">👋 Hi, I'm</h1>
 
 <p align="center">
-  <iframe 
-    src="https://negedetekleyes.github.io/NegedeTekleyes/typewriter/" 
-    width="600" 
-    height="120" 
-    frameborder="0">
-  </iframe>
+  <img src = "/typwriter.gif" width="600", height="120"/>
 </p>
 
 <h3 align="center">

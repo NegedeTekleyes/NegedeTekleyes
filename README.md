@@ -1,74 +1,124 @@
-<h1 align="center">Hi, I'm Negede Tekleyes! 👋</h1>
-
-
-
+<h1 align="center">👋 Hi, I'm <strong>Negede Tekleyes</strong></h1>
 <h3 align="center">
-<a href="https://github.com/NegedeTekleyes">Programmer</a> | 
-<a href="https://www.linkedin.com/in/negede-tekleyes/">Full Stack Developer</a> | 
-<a href="https://www.youtube.com/@KINGZEREYAYKOB-ee4cu">YouTuber</a>
+Full Stack Developer | Software Engineer | React & Next.js Expert | Mobile Developer
 </h3>
 
----
-
-### 👨‍💻 About Me
-- 🔭 **Currently working on:**  
-  - A **Telegram bot** called **'computer_science_stud_bot'** to assist students with computer science topics.  
-
-- 🌱 **Currently learning:**  
-  Advanced full-stack development techniques, optimizing React applications, and Python for automation and bots.
-
-- 🎓 **Education:**  
-  4th-year Computer Science student at **Debre Berhan University**.
+<p align="center">
+  <a href="https://github.com/NegedeTekleyes"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github"></a>
+  <a href="https://www.linkedin.com/in/negede-tekleyes/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.youtube.com/@KINGZEREYAYKOB-ee4cu"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube"></a>
+</p>
 
 ---
 
-### 🚀 Projects
-#### **1. Online Lerning platform(Agelgle)**  
-- Solving the problems of beginner lerners due to lack of unogranized resource and lacks of roadmap to learn consistently.
+## 🔥 About Me
+I’m a passionate **Full Stack Developer** and a 4th-year **Computer Science student** at Debre Berhan University, dedicated to solving real-world problems through modern and scalable software.
 
-#### **2. Full Stack Web Applications**  
-- Built responsive and scalable web apps using:  
-  **React**, **Node.js**, **Express**, **Firebase**, **MongoDB**, and other modern technologies.
+I specialize in:
+- ⚡ Full-stack development (Next.js + NestJS + Prisma)
+- ⚡ Modern frontend (React, TailwindCSS)
+- ⚡ Mobile applications (React Native)
+- ⚡ Automation, scripting & bots (Python)
+- ⚡ Cloud & backend systems
 
-#### **3. Hotels Rooftop App**  
-- A project for managing hotel rooftop services, integrating frontend and backend technologies.
-[Hotels-blog-app](https://github.com/NegedeTekleyes/RoofTop-hotels-mernstack-app)
-#### **4. Amazon Clone**  
-- A full-stack e-commerce platform inspired by Negede.  
-  - [You can show my website](https://amazone-website-negede.netlify.app/)
-#### **5. Personal portifolio***
--A portifolio website inspired by NegedeTekleyes
--[portifolio Deployment](https://github.com/NegedeTekleyes/ethio-software/89)
-- [please visit ethio soft](https://ethiosoft.netlify.app/89)
+I'm always building, learning, and pushing my skills to the next level.
 
 ---
 
-### 📊 GitHub Stats  
-![Negede's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NegedeTekleyes&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NegedeTekleyes&layout=compact&theme=radical)  
+## 🚀 Key Projects
+
+### ⭐ 1. **Agelgle – Online Learning Platform**
+A complete full-stack e-learning system for structured learning with roadmaps, curated content, course uploads, and beginner-friendly guidance.
+
+**Tech:** Next.js, NestJS, Prisma, PostgreSQL  
+**Goal:** Solve the lack of organized learning resources for beginners.
 
 ---
 
-### 🛠️ Tools & Technologies
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+### ⭐ 2. **Hotels Rooftop App**
+A MERN stack project for managing hotel rooftop services.
+
+🔗 GitHub: [Rooftop Hotels App](https://github.com/NegedeTekleyes/RoofTop-hotels-mernstack-app)
 
 ---
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/negede-tekleyes/)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@KINGZEREYAYKOB-ee4cu)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NegedeTekleyes)
+### ⭐ 3. **Amazon Clone**
+A functional e-commerce application inspired by Amazon.
+
+🔗 Live Demo: https://amazone-website-negede.netlify.app/  
+**Features:** product display, cart system, checkout simulation.
 
 ---
 
-### ⚡ Fun Fact
-I’m passionate about learning and sharing knowledge. When I’m not coding, you’ll find me creating content for my YouTube channel to inspire and teach others.
+### ⭐ 4. **Personal Portfolio (EthioSoft)**
+A minimal and beautiful personal portfolio inspired by modern UI design.
+
+🔗 Visit Portfolio: https://ethiosoft.netlify.app/  
+🔗 Repo: https://github.com/NegedeTekleyes/ethio-software/89
 
 ---
 
-⭐️ **From [Negede Tekleyes](https://github.com/NegedeTekleyes)** 
+### ⭐ 5. **Telegram Bot – computer_science_stud_bot**
+A Telegram bot that helps Computer Science students with notes, explanations, and learning support.
+
+**Tech:** Python, Telegram Bot API
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Languages & Core Tooling
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### 🚀 Frontend
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+### 🏗 Backend
+<p>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
+
+### 🗄 Databases
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NegedeTekleyes&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NegedeTekleyes&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p>
+<a href="https://www.linkedin.com/in/negede-tekleyes/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.youtube.com/@KINGZEREYAYKOB-ee4cu"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://github.com/NegedeTekleyes"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+## ⚡ Fun Fact  
+I love teaching and sharing what I learn.  
+When I’m not coding, I’m making YouTube content to help beginners understand programming better.
+
+---
+
+⭐ **Thanks for visiting!**  
+Made with ❤️ by **[Negede Tekleyes](https://github.com/NegedeTekleyes)**

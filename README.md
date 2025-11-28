@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm
+<h1 align="center">👋 Hi, I'm</h1>
 
 <p align="center">
   <iframe 
@@ -9,7 +9,6 @@
   </iframe>
 </p>
 
-</h1>
 <h3 align="center">
 Full Stack Developer | Software Engineer | React & Next.js Expert | Mobile Developer
 </h3>

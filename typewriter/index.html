@@ -1,0 +1,38 @@
+<h1 align="center">
+  👋 Hi, I'm 
+  <span id="typewriter" style="color:#38BDF8; font-weight:bold; font-size:32px;"></span>
+</h1>
+
+<script>
+  const text = "Negede Tekleyes";
+  const speed = 150;
+  const eraseSpeed = 100;
+  const delay = 1000;
+
+  let i = 0;
+  let isDeleting = false;
+
+  function typeEffect() {
+    const element = document.getElementById("typewriter");
+
+    if (!isDeleting) {
+      element.textContent = text.substring(0, i++);
+      if (i <= text.length) {
+        setTimeout(typeEffect, speed);
+      } else {
+        setTimeout(() => (isDeleting = true), delay);
+        setTimeout(typeEffect, speed);
+      }
+    } else {
+      element.textContent = text.substring(0, i--);
+      if (i >= 0) {
+        setTimeout(typeEffect, eraseSpeed);
+      } else {
+        isDeleting = false;
+        setTimeout(typeEffect, speed);
+      }
+    }
+  }
+
+  typeEffect();
+</script>

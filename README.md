@@ -1,4 +1,15 @@
-<h1 align="center">👋 Hi, I'm <strong>Negede Tekleyes</strong></h1>
+<h1 align="center">👋 Hi, I'm
+
+<p align="center">
+  <iframe 
+    src="https://negedetekleyes.github.io/NegedeTekleyes/typewriter/" 
+    width="600" 
+    height="120" 
+    frameborder="0">
+  </iframe>
+</p>
+
+</h1>
 <h3 align="center">
 Full Stack Developer | Software Engineer | React & Next.js Expert | Mobile Developer
 </h3>
@@ -12,9 +23,11 @@ Full Stack Developer | Software Engineer | React & Next.js Expert | Mobile Devel
 ---
 
 ## 🔥 About Me
+
 I’m a passionate **Full Stack Developer** and a 4th-year **Computer Science student** at Debre Berhan University, dedicated to solving real-world problems through modern and scalable software.
 
 I specialize in:
+
 - ⚡ Full-stack development (Next.js + NestJS + Prisma)
 - ⚡ Modern frontend (React, TailwindCSS)
 - ⚡ Mobile applications (React Native)
@@ -28,6 +41,7 @@ I'm always building, learning, and pushing my skills to the next level.
 ## 🚀 Key Projects
 
 ### ⭐ 1. **Agelgle – Online Learning Platform**
+
 A complete full-stack e-learning system for structured learning with roadmaps, curated content, course uploads, and beginner-friendly guidance.
 
 **Tech:** Next.js, NestJS, Prisma, PostgreSQL  
@@ -36,6 +50,7 @@ A complete full-stack e-learning system for structured learning with roadmaps, c
 ---
 
 ### ⭐ 2. **Hotels Rooftop App**
+
 A MERN stack project for managing hotel rooftop services.
 
 🔗 GitHub: [Rooftop Hotels App](https://github.com/NegedeTekleyes/RoofTop-hotels-mernstack-app)
@@ -43,6 +58,7 @@ A MERN stack project for managing hotel rooftop services.
 ---
 
 ### ⭐ 3. **Amazon Clone**
+
 A functional e-commerce application inspired by Amazon.
 
 🔗 Live Demo: https://amazone-website-negede.netlify.app/  
@@ -51,6 +67,7 @@ A functional e-commerce application inspired by Amazon.
 ---
 
 ### ⭐ 4. **Personal Portfolio (EthioSoft)**
+
 A minimal and beautiful personal portfolio inspired by modern UI design.
 
 🔗 Visit Portfolio: https://ethiosoft.netlify.app/  
@@ -59,6 +76,7 @@ A minimal and beautiful personal portfolio inspired by modern UI design.
 ---
 
 ### ⭐ 5. **Telegram Bot – computer_science_stud_bot**
+
 A Telegram bot that helps Computer Science students with notes, explanations, and learning support.
 
 **Tech:** Python, Telegram Bot API
@@ -68,6 +86,7 @@ A Telegram bot that helps Computer Science students with notes, explanations, an
 ## 🛠️ Tech Stack & Tools
 
 ### 💻 Languages & Core Tooling
+
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -75,6 +94,7 @@ A Telegram bot that helps Computer Science students with notes, explanations, an
 </p>
 
 ### 🚀 Frontend
+
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -82,6 +102,7 @@ A Telegram bot that helps Computer Science students with notes, explanations, an
 </p>
 
 ### 🏗 Backend
+
 <p>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -89,6 +110,7 @@ A Telegram bot that helps Computer Science students with notes, explanations, an
 </p>
 
 ### 🗄 Databases
+
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -98,6 +120,7 @@ A Telegram bot that helps Computer Science students with notes, explanations, an
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=NegedeTekleyes&show_icons=true&theme=tokyonight" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NegedeTekleyes&layout=compact&theme=tokyonight" />
@@ -106,6 +129,7 @@ A Telegram bot that helps Computer Science students with notes, explanations, an
 ---
 
 ## 🌐 Connect With Me
+
 <p>
 <a href="https://www.linkedin.com/in/negede-tekleyes/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.youtube.com/@KINGZEREYAYKOB-ee4cu"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
@@ -114,7 +138,8 @@ A Telegram bot that helps Computer Science students with notes, explanations, an
 
 ---
 
-## ⚡ Fun Fact  
+## ⚡ Fun Fact
+
 I love teaching and sharing what I learn.  
 When I’m not coding, I’m making YouTube content to help beginners understand programming better.
 

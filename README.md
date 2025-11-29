@@ -1,4 +1,3 @@
-<h1 align="center">👋 Hi, I'm</h1>
 
 <p align="center">
   <img src = "/typwriter.gif" width="600", height="120"/>

@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-Full Stack Developer | Software Engineer | React & Next.js Expert | Mobile Developer
+Full Stack Developer | Software Engineer  | Mobile Developer
 </h3>
 
 <p align="center">

@@ -2,8 +2,6 @@
   <img src="/typwriter.gif" width="600" height="120"/>
 </p>
 
-<h2 align="center">Hi 👋, I'm Negede Tekleyes</h2>
-
 <h4 align="center">
 Full Stack Developer | Software Engineer | Mobile App Developer
 </h4>

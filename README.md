@@ -3,7 +3,7 @@
 </p>
 
 <h4 align="center">
-Full Stack Developer | Software Engineer | Mobile App Developer
+Full Stack Developer  | Mobile App Developer
 </h4>
 
 <p align="center">
@@ -31,7 +31,6 @@ I’m a **4th-year Computer Science student at Debre Berhan University** and a p
 I focus on building:
 - ⚡ Clean & scalable full-stack applications  
 - ⚡ Real-world problem-solving software  
-- ⚡ Modern UI with strong backend architecture  
 
 **Primary Stack**
 - Frontend: **React, Next.js, TailwindCSS**
@@ -58,7 +57,7 @@ A Full stack application for Debrebrihan Water Supply & Sanitation Service
 
 -**Tech**  Nest.js, Next.js, PostgreSQL, Reactnative
 -**Features:** Easily Complaint managment, Community Easily Report issues any where any time.
--  **Repo:** 
+-  **Repo:** https://github.com/NegedeTekleyes/admin-dashboard
 -  **Live Demo:** https://admin-dashboard-ewwb.vercel.app/
 
 ### ⭐ **Hotels Rooftop Management App**

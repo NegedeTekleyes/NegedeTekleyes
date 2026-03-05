@@ -44,14 +44,22 @@ I focus on building:
 
 ## 🚀 Featured Projects (Pinned Repositories)
 
-### ⭐ **Agelgle – Online Learning Platform**
+### ⭐ **E-self – Online Learning Platform**
 A full-stack e-learning platform with structured roadmaps and curated content.
 
 - **Tech:** Next.js, NestJS, Prisma, PostgreSQL  
 - **Features:** Roadmaps, content organization, scalable backend  
-- **Purpose:** Help beginners learn efficiently  
+- **Purpose:** Help beginners learn efficiently
+- **Live Demo:** https://e-self-lerning-nbv9.vercel.app/
 
 ---
+### ShegaReport Digital Complaint Managment System
+A Full stack application for Debrebrihan Water Supply & Sanitation Service
+
+-**Tech**  Nest.js, Next.js, PostgreSQL, Reactnative
+-**Features:** Easily Complaint managment, Community Easily Report issues any where any time.
+-  **Repo:**
+-  **Live Demo:** https://admin-dashboard-ewwb.vercel.app/
 
 ### ⭐ **Hotels Rooftop Management App**
 A MERN stack application for managing hotel rooftop services.

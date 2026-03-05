@@ -72,15 +72,6 @@ A full-stack Amazon-inspired e-commerce platform.
 
 ---
 
-### ⭐ **EthioSoft – Personal Portfolio**
-A modern portfolio website showcasing projects and skills.
-
-- **Tech:** React, TailwindCSS  
-- 🔗 **Live:** https://ethiosoft.netlify.app/  
-- 🔗 **Repo:** https://github.com/NegedeTekleyes/ethio-software  
-
----
-
 ### ⭐ **Telegram Bot – computer_science_stud_bot**
 A Telegram bot that helps Computer Science students with notes and explanations.
 

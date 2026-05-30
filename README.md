@@ -26,7 +26,7 @@ I build scalable full-stack web & mobile applications using modern technologies 
 
 ## 👨‍💻 About Me
 
-I’m a **4th-year Computer Science student at Debre Berhan University** and a passionate **Full Stack Developer**.
+I’have  ** Graduate with Bachelor of Computer Science from Debre Berhan University** and a passionate **Full Stack Developer**.
 
 I focus on building:
 - ⚡ Clean & scalable full-stack applications  
